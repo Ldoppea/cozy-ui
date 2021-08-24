@@ -11,6 +11,7 @@ script:
   - yarn build:doc:react
   - yarn build:doc:kss
   - mkdir ./screenshots
+  - mkdir ./screenshots2
   - yarn screenshots --mode react --viewport desktop --screenshot-dir ./screenshots/reactDesktop
   - yarn screenshots --mode react --viewport 300x600 --screenshot-dir ./screenshots/reactMobile
   - yarn screenshots --mode stack --screenshot-dir ./screenshots/stack
