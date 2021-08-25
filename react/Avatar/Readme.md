@@ -14,7 +14,7 @@ import palette from 'cozy-ui/transpiled/react/palette';
   <Avatar text="CD" />
   <Avatar image={cozyLogo} />
   <Avatar icon={LinkIcon} />
-  <Avatar text="CD" style={{color: 'black', backgroundColor: palette.seafoamGreen }} />
+  <Avatar text="CD" style={{color: 'black', backgroundColor: palette.purpley }} />
   <Avatar icon={<Icon icon={WarningIcon} />} />
 </div>
 ```
