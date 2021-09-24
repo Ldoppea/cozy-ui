@@ -12779,14 +12779,14 @@ html,
   }
 }
 .DialogTitleFluidContainer--2dR2z {
-  margin-left: -32px;
-  margin-right: -32px;
+  margin-left: -2rem;
+  margin-right: -2rem;
 }
 @media (max-width: 48rem) {
   .DialogTitleFluidContainer--2dR2z {
-    margin-left: -16px;
-    margin-right: -16px;
-    margin-top: -12px;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-top: -0.75rem;
   }
 }
 
